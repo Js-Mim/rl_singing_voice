@@ -14,7 +14,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 * Code for inspecting the outcome(s) of the training (`scripts/make_plots.py`)
 * Code for visualizing loss functions, reading/writing audio files, and creating batches (`tools/`)
 * Perks (unreported implementations/routines)
-..* The discriminator-like objective, as a proxy to mutual information, reported [here](https://arxiv.org/pdf/1812.00271.pdf)
+  ** The discriminator-like objective, as a proxy to mutual information, reported [here](https://arxiv.org/pdf/1812.00271.pdf)
 
 # Beyond code
 
