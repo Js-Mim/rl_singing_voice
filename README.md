@@ -35,7 +35,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
   primaryClass={cs.SD}
 }
 ```
-  </details>
+</details>
   
 ### License
 
