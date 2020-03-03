@@ -23,7 +23,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 
 ## Reference
 
-<p>
+
 <details><summary>If you use this code for your research – Cite this work/summary>
 ```latex
 @misc{mim20_uirl,  
@@ -35,7 +35,6 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
   primaryClass={cs.SD}
 }
 ```
-  </p>
   </details>
   
 ### License
