@@ -40,3 +40,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 # License
 
 MIT
+
+# Acknowledgements
+
+Stylianos Ioannis Mimilakis is supported in part by the German ResearchFoundation (AB 675/2-1, MU 2686/11-1). 
