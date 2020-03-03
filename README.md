@@ -18,9 +18,11 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 
 # Beyond code
 
+* Checkout our [paper](TBA)
+* Checkout [additional results](tba) that didn't fit in the paper
 * Download the optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3695332.svg)](https://doi.org/10.5281/zenodo.3695332)
 * Download the dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
-* Demo [page](tba)
+
 
 ## Reference
 <details><summary>If you find this code useful for your research, cite</summary>
