@@ -22,19 +22,15 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 * Demo [page](tba)
 
 ## Reference
-
-
-<details><summary>If you use this code for your research – Cite this work /summary>
-```latex
-@misc{mim20_uirl,  
+If you use this code for your research, cite:```latex
+  @misc{mim20_uirl,  
   author={S. I. Mimilakis and K. Drossos and G. Schuller},  
   title={Unsupervised Interpretable Representation Learning for Singing Voice Separation},  
   year={2020},
   eprint={},
   archivePrefix={arXiv},
   primaryClass={cs.SD}
-}
-```
+  }```
   
 ### License
 
