@@ -1,6 +1,6 @@
 # Unsupervised Interpretable Representation Learning for Singing Voice Separation
 
-This repository contains the PyTorch (1.4) implementation of a method, based on (convolutional) neural networks, to learn representations from music signals that could be used for singing voice separation. The proposed method is employing a decoder to reconstruct the analysed signal. The decoder relies on cosine functions, that could be sorted, leading to interpretable representations. Furthermore, the representation is non-negative and real-valued, and it could employed, fairly easily, by current spervised models for music source separation. The proposed method is inspired by [Sinc-Net](https://github.com/mravanelli/SincNet/) and [dDSP](https://github.com/magenta/ddsp).
+This repository contains the PyTorch (1.4) implementation of a method, based on (convolutional) neural networks, to learn representations from music signals that could be used for singing voice separation. The proposed method is employing a decoder that relies on cosine functions. The resulting representation is non-negative and real-valued, and it could employed, fairly easily, by current spervised models for music source separation. The proposed method is inspired by [Sinc-Net](https://github.com/mravanelli/SincNet/) and [dDSP](https://github.com/magenta/ddsp).
 
 ### Authors
 
@@ -19,6 +19,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 # Beyond code
 
 * Download the optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3695332.svg)](https://doi.org/10.5281/zenodo.3695332)
+* Download the dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 * Demo [page](tba)
 
 ## Reference
