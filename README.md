@@ -24,7 +24,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 ## Reference
 
 
-<details><summary>If you use this code for your research – Cite this work/summary>
+<details><summary>If you use this code for your research – Cite this work /summary>
 ```latex
 @misc{mim20_uirl,  
   author={S. I. Mimilakis and K. Drossos and G. Schuller},  
