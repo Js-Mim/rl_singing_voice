@@ -11,8 +11,6 @@ The supplementary material focuses on three "qualitative" aspects:
 | **Example** | **Input** | **Reconstructed** |
 |:-----------:|:---------:|:-----------------:|
  
-
-
 # Visual examples
 
 # Frequency responses
