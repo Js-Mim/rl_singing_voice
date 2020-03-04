@@ -39,8 +39,23 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 # Visual examples
 <p align="center"> <b>Example 1</b></p>
 
-<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_1_6.png" width="530" height="380" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_1_6.png" width="530" height="380" /> 
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_1_6.png" width="460" height="380" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_1_6.png" width="460" height="380" /> 
+
 <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_1_6_.wav"></audio>
+</p>
+
+<p align="center"> <b>Example 2</b></p>
+
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_2_3.png" width="460" height="380" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_2_3.png" width="460" height="380" /> 
+
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_2_3_.wav"></audio> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_2_3_.wav"></audio>
+</p>
+
+<p align="center"> <b>Example 3</b></p>
+
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_3_6.png" width="460" height="380" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_3_6.png" width="460" height="380" /> 
+
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_3_6_.wav"></audio> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_3_6_.wav"></audio>
 </p>
 
 
