@@ -18,12 +18,12 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 * Perks (unreported implementations/routines)
   * The discriminator-like objective, as a proxy to mutual information, reported [here](https://arxiv.org/pdf/1812.00271.pdf)
 
-# Beyond code
+# What's not inside!
 
-* Checkout our [paper](TBA)
-* Checkout [additional results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the paper
-* Download the optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3695332.svg)](https://doi.org/10.5281/zenodo.3695332)
-* Download the dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
+* Our [paper](https://arxiv.org/pdf/2003.01567.pdf)
+* Additional [results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the paper
+* The optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3695332.svg)](https://doi.org/10.5281/zenodo.3695332)
+* The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 
 
 # Reference
@@ -34,7 +34,7 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
   author={S. I. Mimilakis and K. Drossos and G. Schuller},  
   title={Unsupervised Interpretable Representation Learning for Singing Voice Separation},  
   year={2020},
-  eprint={},
+  eprint={2003.01567},
   archivePrefix={arXiv},
   primaryClass={cs.SD}
   }
