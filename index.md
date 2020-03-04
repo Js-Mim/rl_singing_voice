@@ -10,10 +10,6 @@ The supplementary material focuses on three "qualitative" aspects:
 # Audio examples
 | **Example** | **Input** | **Reconstructed** |
 |:-----------:|:---------:|:-----------------:|
-| Mix Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_true_1_6_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio> |
-| Vox Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_true_1_6_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_1_6_.wav"></audio> |
-| Mix Ex. 2 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_true_2_3_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_2_3_.wav"></audio> |
-| Vox Ex. 2 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_true_2_3_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_2_3_.wav"></audio> |
  
 
 
