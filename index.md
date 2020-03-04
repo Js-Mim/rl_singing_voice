@@ -118,7 +118,7 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 We used the best performing model, reported in our paper, and compute the discrete Fourier transform (DFT) of the
 resulting basis signals, that the decoder is is using. We cherry picked some the basis.
 
-|||
+| | |
 |:-----------:|:-----:|
 | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_5_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_5_b.png) |
 | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_10_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_10_b.png) |
