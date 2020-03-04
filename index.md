@@ -8,9 +8,10 @@ The supplementary material focuses on three "qualitative" aspects:
 * Visual examples of frequency responses
 
 # Audio examples
+Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds, from the test sub-set.
 
 |**Example**|**Input**|**Reconstructed**|
-|:-----------:|:---------:|:-----------------:|
+|:---------:|:-------:|:---------------:|
 | Mix Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_true_1_6_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio> |
 | Vox Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_true_1_6_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_1_6_.wav"></audio> |
 | Mix Ex. 2 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_true_2_3_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_2_3_.wav"></audio> |
@@ -36,6 +37,9 @@ The supplementary material focuses on three "qualitative" aspects:
 
 
 # Visual examples
+<p align="center"> <b>Example 1</b></p>
+
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-rl_singing_voice/gh-pages/figures/A_m_1_6.png" width="600" height="380" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/sp-rl_singing_voice/gh-pages/figures/A_v_1_6.png" width="600" height="380" /> </p>
 
 # Frequency responses
 We used the best performing model, reported in our paper, and compute the discrete Fourier transform (DFT) of the
