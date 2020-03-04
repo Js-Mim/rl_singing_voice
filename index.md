@@ -97,7 +97,7 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_20_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_20_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav">    <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav">  <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 10</b></p>
@@ -123,6 +123,5 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 </p>
 
 # Frequency responses
-
 We used the best performing model, reported in our paper, and compute the discrete Fourier transform (DFT) of the
 resulting basis signals, that the decoder is is using.
