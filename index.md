@@ -93,6 +93,14 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_18_9_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_18_9_.wav"></audio>
 </p>
 
+<p align="center"> <b>Example 9</b></p>
+
+<p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_20_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_20_6.png" width="475" height="360" /> 
+
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
+</p>
+
+
 <p align="center"> <b>Example 10</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_39_3.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_39_3.png" width="475" height="360" /> 
