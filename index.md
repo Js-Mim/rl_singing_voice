@@ -8,9 +8,10 @@ The supplementary material focuses on three "qualitative" aspects:
 * Visual examples of frequency responses
 
 # Audio examples
-| **Example** | **Input** | **Reconstructed** |
+
+|**Example**|**Input**|**Reconstructed**|
 |:-----------:|:---------:|:-----------------:|
-| Mix Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_true_1_6_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio> | 
+| Mix Ex. 1 | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_true_1_6_.wav"></audio> | <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio> |
 
 # Visual examples
 
