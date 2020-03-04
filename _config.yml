@@ -5,5 +5,4 @@ sass:
   style: :compressed
 
 theme: jekyll-theme-primer
-
 title: "Unsupervised Representation Learning for Singing Voice Separation"
