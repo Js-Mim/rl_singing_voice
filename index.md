@@ -41,77 +41,77 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_1_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_1_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_1_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_1_6_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_1_6_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 2</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_2_3.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_2_3.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_2_3_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_2_3_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_2_3_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_2_3_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 3</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_3_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_3_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_3_6_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_3_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_3_6_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_3_6_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 4</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_4_7.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_4_7.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_4_7_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_4_7_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_4_7_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_4_7_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 5</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_10_10.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_10_10.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_10_10_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_10_10_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_10_10_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_10_10_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 6</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_12_15.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_12_15.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_12_15_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_12_15_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_12_15_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_12_15_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 7</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_13_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_13_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_13_6_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_13_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_13_6_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_13_6_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 8</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_18_9.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_18_9.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_18_9_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_18_9_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_18_9_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_18_9_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 9</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_20_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_20_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav">    <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 10</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_39_3.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_39_3.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_39_3_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_39_3_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_39_3_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_39_3_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 11</b></p>
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_47_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_47_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_47_6_.wav"></audio> <span style="padding-left:50px"> <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_47_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_47_6_.wav"></audio>    <audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_47_6_.wav"></audio>
 </p>
 
 
