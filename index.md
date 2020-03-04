@@ -136,3 +136,7 @@ resulting basis signals, that the decoder is is using. We cherry picked some the
 | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_715_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_715_b.png) |
 
 ### Observations & Take-home Messages
+From the above collection of figures we could conclude the following:
+1. The representations using our method, are phase-free, real-valued, and are kinda like the magnitude of the short-time Fourier transform (STFT). Representation of singing voice signals can be described by "horizontal" activity, acrross time, whereas other components are scattered quasi-randomly in the representation. Therefore, further representations objectives are emerging.
+2. Masking, a glorified approach to music source separation, can still be applied to the above representation. However, and as seen from the frequency plots, masking a single element essentially removes much more information than a sinusoid from the analyzed signal. Subtracting representations could be more convenient.
+3. Our expectactions for the structure of the modulation signals, presented in the related paper, are not very far away from the realization (illustrated above). They practically offer extra fidelity parameters for reconstructing singing voice signal. Nonetheless, many basis signals are still un-structured so further examination or even inception-like re-parameterization is necessary.
