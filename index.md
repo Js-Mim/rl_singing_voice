@@ -97,7 +97,7 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_m_20_6.png" width="475" height="360" /> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/A_v_20_6.png" width="475" height="360" /> 
 
-<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav"><audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
+<audio controls="1"><source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/mix_rec_20_6_.wav"><audio controls="1">    <source src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/audio_files/vox_rec_20_6_.wav"></audio>
 </p>
 
 <p align="center"> <b>Example 10</b></p>
@@ -116,4 +116,21 @@ Randomly sampled mixture (`mix`) and singing voice (`vox`) segments of 3 seconds
 
 # Frequency responses
 We used the best performing model, reported in our paper, and compute the discrete Fourier transform (DFT) of the
-resulting basis signals, that the decoder is is using.
+resulting basis signals, that the decoder is is using. We cherry picked some the basis.
+
+|||
+|:-----------:|:-----:|
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_5_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_5_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_10_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_10_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_40_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_40_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_65_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_65_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_70_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_70_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_75_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_75_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_95_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_95_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_355_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_355_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_360_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_360_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_395_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_395_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_440_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_440_b.png) |
+| ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_715_a.png) | ![ ](https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/dft_715_b.png) |
+
+### Observations & Take-home Messages
