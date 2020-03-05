@@ -1,6 +1,6 @@
 # Unsupervised Interpretable Representation Learning for Singing Voice Separation
 
-This repository contains the PyTorch (1.4) implementation of a method, based on (convolutional) neural networks, to learn representations from music signals that could be used for singing voice separation. The proposed method is employing a decoder that relies on cosine functions. The resulting representation is non-negative and real-valued, and it could employed, fairly easily, by current spervised models for music source separation. The proposed method is inspired by [Sinc-Net](https://github.com/mravanelli/SincNet/) and [dDSP](https://github.com/magenta/ddsp).
+This repository contains the PyTorch (1.4) implementation of our method for representation learning. Our method is based on (convolutional) neural networks, to learn representations from music signals that could be used for singing voice separation. The proposed method is employing a decoder that relies on cosine functions. The resulting representation is non-negative and real-valued, and it could employed, fairly easily, by current supervised models for music source separation. The proposed method is inspired by [Sinc-Net](https://github.com/mravanelli/SincNet/) and [dDSP](https://github.com/magenta/ddsp).
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/method_overview.png" width="560" height="260" /> </p>
 
@@ -25,9 +25,20 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
 * The optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3695332.svg)](https://doi.org/10.5281/zenodo.3695332)
 * The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 
+# How to use
+### Training
+1. Download the dataset and declare the path of the downloaded dataset in `tools/helpers.py`
+2. Apply any desired changes to the model by tweeking the parameters in `settings/rl_experiment_settings.py`
+3. Execute `scripts/exp_rl_vanilla.py`
+
+### Testing
+1. Download the dataset and declare the path of the downloaded dataset in `tools/helpers.py`
+2. Download the results and place them under the `results` folder
+3. Load up the desired model by declaring the experiment id in `settings/rl_experiment_settings.py` (e.g. `r-mcos8`)
+4. Execute `scripts/exp_fe_test.py` (some arguments for plotting and file writing are necesary)
 
 # Reference
-<details><summary>If you find this code useful for your research, cite</summary>
+If you find this code useful for your research, cite our paper:
 
 ```latex
   @misc{mim20_uirl,  
@@ -39,8 +50,6 @@ This repository contains the PyTorch (1.4) implementation of a method, based on 
   primaryClass={cs.SD}
   }
   ```
-  
-  </details>
   
 # Acknowledgements
 
