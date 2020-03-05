@@ -12,7 +12,6 @@ from nn_modules import losses
 from tools import helpers, io_methods, nn_loaders
 from settings.rl_experiment_settings import exp_settings as settings
 from settings.rl_disc_experiment_settings import exp_settings as settings_disc
-from settings.rl_adt_experiment_settings import exp_settings as settings_adt
 _eps = 1e-24
 
 
@@ -185,7 +184,7 @@ if __name__ == "__main__":
     torch.cuda.manual_seed(218)
     torch.set_default_tensor_type('torch.cuda.FloatTensor')
 
-    c_set = [settings, settings_disc, settings_adt]
+    c_set = [settings, settings_disc]
 
     # Testing
     perform_frontend_testing(make_plots=False,
