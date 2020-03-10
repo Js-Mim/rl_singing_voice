@@ -57,7 +57,7 @@ def perform_frontend_training():
                 shuf_ind_vox = perm_in_vox[batch * exp_settings['batch_size']: (batch + 1) * exp_settings['batch_size']]
                 shuf_ind_bkg = perm_in_bkg[batch * exp_settings['batch_size']: (batch + 1) * exp_settings['batch_size']]
                 vox_tr_batch = io_dealer.batches_from_numpy(vox[shuf_ind_vox, :])
-                bkg_tr_batch = io_dealer.batches_from_numpy(vox[shuf_ind_bkg, :])
+                bkg_tr_batch = io_dealer.batches_from_numpy(bkg[shuf_ind_bkg, :])
 
                 vox_var = torch.autograd.Variable(vox_tr_batch, requires_grad=False)
                 bkg_var = torch.autograd.Variable(bkg_tr_batch, requires_grad=False)
