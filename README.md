@@ -22,7 +22,7 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 
 * Our [paper](https://arxiv.org/pdf/2003.01567.pdf)
 * Additional [results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the paper
-* The optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3695332.svg)](https://doi.org/10.5281/zenodo.3695332)
+* The optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3707885.svg)](https://doi.org/10.5281/zenodo.3707885)
 * The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 
 # How to use
