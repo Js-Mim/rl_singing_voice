@@ -1,6 +1,6 @@
 # Unsupervised Interpretable Representation Learning for Singing Voice Separation
 
-This repository contains the PyTorch (1.4) implementation of our method for representation learning. Our method is based on (convolutional) neural networks, to learn representations from music signals that could be used for singing voice separation. The proposed method is employing a decoder that relies on cosine functions. The resulting representation is non-negative and real-valued, and it could employed, fairly easily, by current supervised models for music source separation. The proposed method is inspired by [Sinc-Net](https://github.com/mravanelli/SincNet/) and [dDSP](https://github.com/magenta/ddsp).
+This repository contains the PyTorch (1.4) implementation of our method for representation learning. Our method is based on (convolutional) neural networks, to learn representations from music signals that could be used for singing voice separation. The trick here is that the proposed method is employing cosine functions at the decoding stage. The resulting representation is non-negative and real-valued, and it could employed, fairly easily, by current supervised models for music source separation. The proposed method is inspired by [Sinc-Net](https://github.com/mravanelli/SincNet/) and [dDSP](https://github.com/magenta/ddsp).
 
 <p align="center"> <img class="center" src="https://raw.githubusercontent.com/Js-Mim/rl_singing_voice/gh-pages/figures/method_overview.png" width="560" height="260" /> </p>
 
@@ -53,7 +53,7 @@ If you find this code useful for your research, cite our paper:
   
 # Acknowledgements
 
-Stylianos Ioannis Mimilakis is supported in part by the German ResearchFoundation (AB 675/2-1, MU 2686/11-1). 
+Stylianos Ioannis Mimilakis is supported in part by the German Research Foundation (AB 675/2-1, MU 2686/11-1). 
 
 # License
 
