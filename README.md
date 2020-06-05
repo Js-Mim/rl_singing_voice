@@ -39,15 +39,12 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 
 # Reference
 If you find this code useful for your research, cite our paper:
-
 ```latex
-  @misc{mim20_uirl,  
+  @inproceedings{mim20_uirl_eusipco,  
   author={S. I. Mimilakis and K. Drossos and G. Schuller},  
   title={Unsupervised Interpretable Representation Learning for Singing Voice Separation},  
   year={2020},
-  eprint={2003.01567v3},
-  archivePrefix={arXiv},
-  primaryClass={cs.SD}
+  booktitle={Proceedings of the 27th European Signal Processing Conference (EUSIPCO 2020)}
   }
   ```
   
