@@ -4,6 +4,7 @@ __copyright__ = 'Fraunhofer IDMT'
 
 # imports
 import torch
+from nn_modules import sk_iter as sk
 
 bce_logitloss_func = torch.nn.BCEWithLogitsLoss()
 bce_func = torch.nn.BCELoss()
@@ -44,5 +45,16 @@ def tot_variation_2d(x):
 def bce(x_pos, x_neg):
     return 0.5 * (-(x_pos + 1e-24).log().mean() - (1. - x_neg + 1e-24).log().mean())
 
+
+def sinkhorn_dist(x, p=1, reg=1):
+    bs = x.size(0)
+    dim = x.size(1)
+    x_normalized = (x + 1./dim)/((x + 1./dim).sum(dim=2, keepdim=True))
+    dist_mat = 0
+    for batch in range(bs):
+        dist_mat += (x_normalized[batch] - x_normalized[batch].t().unsqueeze(2)).norm(p=p, dim=1)
+    c_loss = sk.sinkhorn(dist_mat/bs, reg)
+
+    return c_loss
 
 # EOF
