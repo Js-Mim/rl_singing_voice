@@ -20,16 +20,18 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 
 # What's not inside!
 
-* Our [paper](https://arxiv.org/pdf/2003.01567v3.pdf)
-* Additional [results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the paper
-* The optimized models &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3707885.svg)](https://doi.org/10.5281/zenodo.3707885)
+* Our papers: [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v3.pdf)(accepted), [ICML-SAS-2020](https://openreview.net/pdf?id=aaI4jKANEH4) (submitted)
+* Additional [results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the EUSIPCO-2020 paper
 * The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
+* The optimized models reported in [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v3.pdf)  &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3707885.svg)](https://doi.org/10.5281/zenodo.3707885)
+* Note: For the optimized models reported in [ICML-SAS-2020](https://openreview.net/pdf?id=aaI4jKANEH4), please contact us.
 
 # How to use
 ### Training
 1. Download the dataset and declare the path of the downloaded dataset in `tools/helpers.py`
 2. Apply any desired changes to the model by tweeking the parameters in `settings/rl_experiment_settings.py`
-3. Execute `scripts/exp_rl_vanilla.py`
+3. Execute `scripts/exp_rl_vanilla.py` for the basic method
+4. Execute `scripts/exp_rl_sinkhorn.py` for the extended method, using Sinkhorn distances
 
 ### Testing
 1. Download the dataset and declare the path of the downloaded dataset in `tools/helpers.py`
