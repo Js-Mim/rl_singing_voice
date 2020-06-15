@@ -21,7 +21,7 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 # What's not inside!
 
 * Our papers: [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v3.pdf)(accepted), [ICML-SAS-2020](https://openreview.net/pdf?id=aaI4jKANEH4) (submitted)
-* Additional [results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the EUSIPCO-2020 paper
+* [Additional results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the EUSIPCO-2020 paper
 * The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 * The optimized models reported in [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v3.pdf)  &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3707885.svg)](https://doi.org/10.5281/zenodo.3707885)
 * Note: For the optimized models reported in [ICML-SAS-2020](https://openreview.net/pdf?id=aaI4jKANEH4), please reach us out
