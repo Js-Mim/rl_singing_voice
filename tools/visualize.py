@@ -33,4 +33,26 @@ def plot_grad_flow(named_parameters, id):
     plt.grid(True)
     plt.savefig(id + '.png', dpi=300)
 
+def plot_representation(coeff, y_label, freqs=[], id='tt.png'):
+    plt.figure()
+    plt.imshow(coeff, aspect='auto', origin='lower', vmin=0., vmax=1., extent=[0, 345, 0, 800])
+    plt.xlabel('Time frames ' + r'$T$', fontsize=20)
+
+    if freqs.any():
+        locs = np.arange(0, 800, 75)
+        plt.yticks(locs, (np.round(freqs[locs], 0).astype(int)), rotation=45, fontsize=16)
+
+    plt.xticks(rotation=45, fontsize=16)
+    plt.yticks(rotation=45, fontsize=16)
+    plt.ylabel(y_label, fontsize=20)
+    plt.minorticks_on()
+    cbar = plt.colorbar(extend='both')
+    cbar.ax.tick_params(labelsize=16, rotation=45)
+    cbar.minorticks_on()
+    
+    plt.tight_layout()
+    plt.savefig(id, dpi=350)
+    plt.close()
+
+    
 # EOF
