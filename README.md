@@ -51,14 +51,14 @@ If you find this code useful for your research, cite our papers:
   ```
   
   ```latex
-@misc{mimilakis2020revisiting,
+    @misc{mimilakis2020revisiting,
     title={Revisiting Representation Learning for Singing Voice Separation with Sinkhorn Distances},
     author={S. I. Mimilakis and K. Drossos and G. Schuller},
     year={2020},
     eprint={2007.02780},
     archivePrefix={arXiv},
     primaryClass={cs.SD}
-}
+    }
   ```
   
 # Acknowledgements
