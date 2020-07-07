@@ -20,7 +20,7 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 
 # What's not inside!
 
-* Our papers: [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v4.pdf)(accepted), [ICML-SAS-2020](https://openreview.net/pdf?id=aaI4jKANEH4) (rejected)
+* Our papers: [EUSIPCO-2020 (accepted)](https://arxiv.org/pdf/2003.01567v4.pdf), [arXiv](https://arxiv.org/pdf/2007.02780)
 * [Additional results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the EUSIPCO-2020 paper
 * The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 * The optimized models reported in [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v3.pdf)  &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3707885.svg)](https://doi.org/10.5281/zenodo.3707885)
@@ -40,7 +40,7 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 4. Execute `scripts/exp_fe_test.py` (some arguments for plotting and file writing are necesary)
 
 # Reference
-If you find this code useful for your research, cite our paper:
+If you find this code useful for your research, cite our papers:
 ```latex
   @inproceedings{mim20_uirl_eusipco,  
   author={S. I. Mimilakis and K. Drossos and G. Schuller},  
@@ -48,6 +48,17 @@ If you find this code useful for your research, cite our paper:
   year={2020},
   booktitle={Proceedings of the 27th European Signal Processing Conference (EUSIPCO 2020)}
   }
+  ```
+  
+  ```latex
+@misc{mimilakis2020revisiting,
+    title={Revisiting Representation Learning for Singing Voice Separation with Sinkhorn Distances},
+    author={S. I. Mimilakis and K. Drossos and G. Schuller},
+    year={2020},
+    eprint={2007.02780},
+    archivePrefix={arXiv},
+    primaryClass={cs.SD}
+}
   ```
   
 # Acknowledgements
