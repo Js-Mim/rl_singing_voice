@@ -24,7 +24,7 @@ This repository contains the PyTorch (1.4) implementation of our method for repr
 * [Additional results](https://js-mim.github.io/rl_singing_voice/) that didn't fit in the EUSIPCO-2020 paper
 * The used dataset &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3338373.svg)](https://doi.org/10.5281/zenodo.3338373)
 * The optimized models reported in [EUSIPCO-2020](https://arxiv.org/pdf/2003.01567v3.pdf)  &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3707885.svg)](https://doi.org/10.5281/zenodo.3707885)
-* Note: For the optimized models reported [here](https://arxiv.org/pdf/2007.02780), please reach us out
+* The optimized models reported [here](https://arxiv.org/pdf/2007.02780) &rarr; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4607439.svg)](https://doi.org/10.5281/zenodo.4607439)
 
 # How to use
 ### Training
