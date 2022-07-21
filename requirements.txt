@@ -13,7 +13,7 @@ matplotlib==3.0.2
 musdb==0.3.1
 museval==0.3.0
 numba==0.40.1
-numpy==1.15.4
+numpy==1.22.0
 pandas==0.25.3
 python-dateutil==2.7.5
 scikit-learn==0.20.1
