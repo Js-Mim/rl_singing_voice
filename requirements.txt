@@ -5,7 +5,7 @@ future==0.17.1
 graphviz==0.13.2
 idna==2.7
 importlib-metadata==1.4.0
-ipython==7.1.1
+ipython==8.10.0
 ipython-genutils==0.2.0
 kiwisolver==1.0.1
 librosa==0.6.2
